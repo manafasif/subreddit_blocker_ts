@@ -17,7 +17,7 @@ declare global {
   const defineWxtPlugin: typeof import('wxt/sandbox')['defineWxtPlugin']
   const fakeBrowser: typeof import('wxt/testing')['fakeBrowser']
   const injectScript: typeof import('wxt/client')['injectScript']
-  const setupCounter: typeof import('C:/Users/manaf/OneDrive/Documents/Github/subreddit_blocker_ts/components/counter')['setupCounter']
+  const setupCounter: typeof import('C:/Users/manaf/OneDrive/Documents/Github/subreddit_blocker_ts/src/components/counter')['setupCounter']
   const storage: typeof import('wxt/storage')['storage']
   const useAppConfig: typeof import('wxt/client')['useAppConfig']
 }
